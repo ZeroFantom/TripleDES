@@ -159,6 +159,24 @@
     <ItemGroup>
         <Content Include="FileUse\InputFile.txt"/>
         <Content Include="FileUse\OutputFile.txt"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\CL.command.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\Cl.items.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\CL.read.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\CL.write.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\ConsoleApplicationCCC.lastbuildstate"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\link.command.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\link.read.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\link.secondary.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleA.10CAD5E7.tlog\link.write.1.tlog"/>
+        <Content Include="x64\Debug\ConsoleApplicationCCC.exe.recipe"/>
+        <Content Include="x64\Debug\ConsoleApplicationCCC.ilk"/>
+        <Content Include="x64\Debug\ConsoleApplicationCCC.obj"/>
+        <Content Include="x64\Debug\des.obj"/>
+        <Content Include="x64\Debug\main.obj"/>
+        <Content Include="x64\Debug\tripledes.obj"/>
+        <Content Include="x64\Debug\utility.obj"/>
+        <Content Include="x64\Debug\vc143.idb"/>
+        <Content Include="x64\Debug\vc143.pdb"/>
     </ItemGroup>
     <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
     <ImportGroup Label="ExtensionTargets">
